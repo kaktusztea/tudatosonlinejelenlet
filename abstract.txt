@@ -1,12 +1,12 @@
 Tudatos online jelenlét - Privacy az interneten
 
-Két éve, 2019-ben kezdtem bele egy korábbi előadásom cikksorozattá formálásába.
+Két éve, 2019-ben kezdtem bele egy korábbi, privacy témájú, barátaimnak tartott előadásom cikksorozattá formálásába.
 A Kaméleon magazintól kaptam lehetőséget, hogy folytatásos formában megjelenjenek náluk az írásaim.
-A téma egyfajta „Privacy 1x1” volt, az informatikában nem jártas átlagembereknek – olvasmányos formában. Szabadságjogok, személyes adatok védelme, mentális hatások, tech óriások.
+A téma egyfajta „Privacy 1x1” volt, az informatikában nem jártas átlagembereknek, olvasmányos formában. Szabadságjogok, személyes adatok védelme, mentális hatások, tech óriások.
 
-Idővel úgy éreztem, hogy más formában, egybegyúrva, formailag és tartalmilag átszerkesztve is meg szeretném jelenteteni. Az új forma egy oktató célú kézikönyvet eredményezett, amelynek segítségével tanárok, diákok, informatikával nem foglalkozó, de aktív internethasználó emberek kaphatnak alapvető rálátást, hogy mi folyik az internet árnyékosabb részein miközben tucatnyi alkalmazást használva mi is aktívan kószálunk rajta.
+Idővel úgy éreztem, hogy más formában, egybegyúrva, formailag és tartalmilag átszerkesztve is meg szeretném jelentetni. Az új forma egy oktató célú kézikönyvet eredményezett, amelynek segítségével tanárok, diákok, informatikával nem foglalkozó, de aktív internethasználó emberek kaphatnak alapvető rálátást, hogy mi folyik az internet árnyékosabb részein miközben tucatnyi alkalmazást használva mi is aktívan kószálunk rajta.
 
-A lenti linken található, illusztrációkkal ellátott PDF egy "élő" anyag, amit mindig megpróbálok friss, aktuális formában tartani. Az 1.0 változat kész: a teljes ismeretterjesztő és filozofiai részt tartalmazza, illetve a 7. fejezetben konkrét, gyakorlati megoldások találhatóak, amikkel komoly változásokat érhetünk el a személyes adataink védelmét illetően.
+A lenti linken található, illusztrációkkal ellátott PDF egy "élő" anyag, amit mindig megpróbálok friss, aktuális formában tartani. Az 1.0 változat kész: a teljes ismeretterjesztő és filozófiai részt tartalmazza, illetve a 7. fejezetben konkrét, gyakorlati megoldások találhatóak, amikkel komoly változásokat érhetünk el a személyes adataink védelmét illetően.
 
 A következő hónapokban elkészül a 8. fejezet is, amiben a mobiltelefonjaink gyakorlati beállításait veszem majd végig, hogy ne kapjunk azonnal szárazbeton reklámot a pofánkba, ha elhaladunk egy barkácsáruház mellett :)
 

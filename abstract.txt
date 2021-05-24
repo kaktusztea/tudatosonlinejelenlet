@@ -1,16 +1,31 @@
 Tudatos online jelenlét - Privacy az interneten
 
+https://github.com/kaktusztea/tudatosonlinejelenlet/raw/master/FeketeBalint_Privacy_az_interneten.pdf
+
 Két éve, 2019-ben kezdtem bele egy korábbi, privacy témájú, barátaimnak tartott előadásom cikksorozattá formálásába.
-A Kaméleon magazintól kaptam lehetőséget, hogy folytatásos formában megjelenjenek náluk az írásaim.
-A téma egyfajta „Privacy 1x1” volt, az informatikában nem jártas átlagembereknek, olvasmányos formában. Szabadságjogok, személyes adatok védelme, mentális hatások, tech óriások.
+A Kaméleon magazintól kaptam lehetőséget, hogy folytatásos formában megjelenjenek náluk az írásaim. A téma egyfajta „Privacy 1x1” volt az informatikában nem jártas átlagembereknek, olvasmányos formában. Internetes szabadságjogok, személyes adatok védelme, mentális hatások, tech óriások.
 
-Idővel úgy éreztem, hogy más formában, egybegyúrva, formailag és tartalmilag átszerkesztve is meg szeretném jelentetni. Az új forma egy oktató célú kézikönyvet eredményezett, amelynek segítségével tanárok, diákok, informatikával nem foglalkozó, de aktív internethasználó emberek kaphatnak alapvető rálátást, hogy mi folyik az internet árnyékosabb részein miközben tucatnyi alkalmazást használva mi is aktívan kószálunk rajta.
+Idővel úgy éreztem, hogy más formában, egybegyúrva, formailag és tartalmilag átszerkesztve is meg szeretném jelentetni. Az új forma egy oktató célú kézikönyvet eredményezett, amelynek segítségével tanárok, diákok, informatikával nem foglalkozó, de aktív internethasználó emberek kaphatnak alapvető rálátást, hogy mi folyik a közösségi média árnyékosabb részein, hogyan válik a rólunk szóló információ árucikké és egyénként mit tehetünk ez ellen.
 
-A lenti linken található, illusztrációkkal ellátott PDF egy "élő" anyag, amit mindig megpróbálok friss, aktuális formában tartani. Az 1.0 változat kész: a teljes ismeretterjesztő és filozófiai részt tartalmazza, illetve a 7. fejezetben konkrét, gyakorlati megoldások találhatóak, amikkel komoly változásokat érhetünk el a személyes adataink védelmét illetően.
+A fenti linken található, illusztrációkkal ellátott PDF egy "élő" anyag, amit mindig megpróbálok friss, aktuális formában tartani. Az 1.0 változat kész, a teljes ismeretterjesztő és szabadságjogokkal foglalkozó részt tartalmazza, a 7. fejezetben pedig konkrét, gyakorlati megoldások találhatóak, amelyekkel komoly változásokat érhetünk el a személyes adataink védelmét illetően.
 
-A következő hónapokban elkészül a 8. fejezet is, amiben a mobiltelefonjaink gyakorlati beállításait veszem majd végig, hogy ne kapjunk azonnal szárazbeton reklámot a pofánkba, ha elhaladunk egy barkácsáruház mellett :)
+A következő hónapokban elkészül a 8. fejezet is, amiben a mobiltelefonjaink gyakorlati beállításait veszem majd végig, hogy ne kapjunk azonnal szárazbeton reklámot a pofánkba, ha mobilunkkal a zsebünkben elhaladunk egy barkácsáruház mellett :)
 
 Nagy köszönet Kiss Orsinak és Kalmár Dávidnak a kiváló korrektúráért! Rá kellett jöjjek, hogy a kötőjelek használata a középkori feketemágiához hasonlatos: csak egy szűk, beavatott csoport ismeri a titkait, hogy hol szabad vagy kell használni őket :)
 
-A dokumentum mindenkori legfrissebb példánya innen tölthető le:
+A linkről a dokumentum mindenkori legfrissebb példánya tölthető le, osztható, terjeszthető.
 https://github.com/kaktusztea/tudatosonlinejelenlet/raw/master/FeketeBalint_Privacy_az_interneten.pdf
+
+
+-------------------------
+Facebook poszt mém szöveg
+-------------------------
+
+Íme a számla!
+2 kávé, az annyi, mint...
+
+egy fotó a gyerekeiről...
+és egy csevegés leirata, amiben
+nemrég a magánéletéről beszélgetett
+
+-------------------------
